@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there I'm Theviondu👋
+
+Welcome to my github profile
+I'm a CSE student at University of Moratuwa
+
+## Connect with me
+  -[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevindu-fernando-4a63b3283/)
 
 <!--
 **ThevinduFernando2003/ThevinduFernando2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
