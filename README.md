@@ -13,7 +13,7 @@ I'm a CSE student at University of Moratuwa
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-glow)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thevindufernando2003&layout=compact&theme=vision-glow)
 <!--
 **ThevinduFernando2003/ThevinduFernando2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
