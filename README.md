@@ -6,6 +6,7 @@ I'm a CSE student at University of Moratuwa
 ## Connect with me
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevindu-fernando-4a63b3283/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thevindufernando0315@gmail.com)
+  [![Uni Email](https://img.shields.io/badge/University_Email-0047AB?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:thevinduf.23@cse.mrt.ac.lk)
 
 
 <!--
