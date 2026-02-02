@@ -5,6 +5,8 @@ I'm a CSE student at University of Moratuwa
 
 ## Connect with me
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevindu-fernando-4a63b3283/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thevindufernando0315@gmail.com)
+
 
 <!--
 **ThevinduFernando2003/ThevinduFernando2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
