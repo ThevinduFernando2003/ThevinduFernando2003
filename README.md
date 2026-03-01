@@ -11,6 +11,7 @@ I'm a CSE student at University of Moratuwa
 ## Tech Stack
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+  ![C++](https://img.shields.io)
 
 
 
